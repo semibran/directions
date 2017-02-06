@@ -1,0 +1,12 @@
+{
+  "name": "directions",
+  "version": "1.0.0",
+  "description": "Constants for ordinal directions",
+  "license": "MIT",
+  "author": "Brandon Semilla <semibran@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semibran/directions.git"
+  }
+}
