@@ -1,7 +1,7 @@
 {
   "name": "directions",
-  "version": "1.1.0",
-  "description": "Constants for ordinal directions",
+  "version": "1.0.0",
+  "description": "Constants for cardinal directions",
   "license": "MIT",
   "author": "Brandon Semilla <semibran@gmail.com>",
   "main": "index.js",

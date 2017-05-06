@@ -1,24 +1,14 @@
 # directions
-> Constants for ordinal directions
+> Constants for cardinal directions
 
 ```javascript
-const {
-	TOP_LEFT, TOP, TOP_RIGHT,
-	LEFT, RIGHT,
-	BOTTOM_LEFT, BOTTOM, BOTTOM_RIGHT } = require('directions')
-
-const cardinals = [LEFT, TOP, RIGHT, BOTTOM]
-
-for (var direction of cardinals) {
-	var [dx, dy] = direction
-	// ...
-}
+const { left, up, right, down } = require('directions')
 ```
 
-## Installation
+## install
 ```sh
-npm install --save semibran/directions
+npm install semibran/directions
 ```
 
-## License
+## license
 MIT
